@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\bin\Debug\Lab01-Q1.exe.config
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\bin\Debug\Lab01-Q1.exe
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\bin\Debug\Lab01-Q1.pdb
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.exe
+C:\Users\User\source\repos\Lab01-Q1\Lab01-Q1\obj\Debug\Lab01-Q1.pdb
